@@ -6,6 +6,8 @@ You are tasked with analysing an HR dataset and building a predictive model usin
 
 Your objective is to develop an accurate model to predict employee attrition and provide actionable insights for HR management.
 
+Dataset: hr_dataset.csv
+
 
 ## Questions 
 

@@ -15,6 +15,8 @@ Questions:
 1. If the coefficient for Square_Feet is significantly positive, what could be the reason?
 2. Discuss practical implications: After building your regression model, plot the residual plot for your selected predictor variable. What does the residual plot reveal about the linearity assumption of your model? Explain whether your model shows signs of non-linearity and how you would address it if present.
 
+Dataset: housing_prices.xlsx
+
 ## Learning Outcomes Adressed
 - Describe, implement and evaluate a diverse range of regression and classification algorithms, such as linear regression, logistic regression and decision trees
 - Analyse relationships between variables, make predictions and interpret model results effectively in real-world scenarios

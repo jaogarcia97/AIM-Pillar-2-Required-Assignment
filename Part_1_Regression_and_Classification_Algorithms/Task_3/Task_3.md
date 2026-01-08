@@ -14,6 +14,8 @@ Your objective is to develop a machine learning model with good R2.
 
 Tool to be used: Python
 
+Dataset: employee_salary_dataset.csv
+
 ## Questions
 
 1. Feature Influence: What does a positive or negative coefficient indicate for each variable? Which feature has the strongest influence on salary?
