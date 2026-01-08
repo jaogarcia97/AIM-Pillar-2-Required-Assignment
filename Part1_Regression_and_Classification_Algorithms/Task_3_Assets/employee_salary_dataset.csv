@@ -1,0 +1,1501 @@
+Experience,Education,Age,Location,Role,Salary
+7,Bachelor's,56,New York,Software Engineer,78856.82
+20,High School,28,Austin,Software Engineer,71947.20345988729
+29,PhD,42,Chicago,Software Engineer,111659.8401759831
+15,High School,39,Chicago,Software Engineer,70258.29020678056
+11,High School,24,New York,Software Engineer,77946.27787802806
+8,High School,32,San Francisco,Data Scientist,66238.10668748774
+29,Master's,45,Austin,Manager,110582.24768489995
+21,Master's,40,Austin,Software Engineer,98480.19
+7,Bachelor's,25,New York,Software Engineer,72800.02837053497
+26,Bachelor's,47,Austin,HR,103069.42400342897
+19,PhD,59,Austin,Data Scientist,95003.03624641288
+23,Bachelor's,53,San Francisco,Data Scientist,143326.99132281452
+11,High School,57,San Francisco,Manager,98132.29220283117
+11,High School,58,New York,Data Scientist,80687.84
+24,Master's,54,San Francisco,HR,106043.50848316716
+21,High School,57,New York,HR,109373.05917534379
+4,PhD,24,Chicago,Manager,97480.86678106821
+8,High School,30,New York,HR,59714.483539241686
+24,High School,29,Chicago,Software Engineer,95159.09336571011
+3,PhD,54,New York,Software Engineer,71352.65477949679
+22,Bachelor's,27,Austin,HR,79581.11
+21,Bachelor's,25,San Francisco,Manager,109207.13192372669
+2,PhD,34,Chicago,Data Scientist,71777.54472254612
+24,Master's,23,New York,Manager,128832.10248427012
+12,High School,26,San Francisco,Data Scientist,89544.97372984936
+6,PhD,48,New York,HR,72481.19203204759
+2,High School,53,San Francisco,HR,40367.149393425694
+28,Master's,42,San Francisco,Software Engineer,112055.06880143634
+21,High School,29,New York,Data Scientist,92011.07117374393
+1,PhD,59,Chicago,Manager,66770.38
+12,High School,29,Chicago,HR,81739.56366225625
+26,Bachelor's,24,Austin,Manager,90112.12147483547
+22,Master's,24,San Francisco,Software Engineer,105688.46616566271
+29,Master's,43,Austin,Data Scientist,103787.73975016524
+12,Master's,27,Austin,Data Scientist,92283.16578943246
+25,PhD,23,New York,HR,111852.86901634384
+17,Master's,44,New York,Data Scientist,114886.94524874439
+27,Bachelor's,23,New York,HR,95031.70
+27,PhD,59,San Francisco,Software Engineer,124891.46801897432
+10,Bachelor's,38,New York,Data Scientist,76422.88350156824
+28,High School,56,New York,HR,110142.2784072024
+28,High School,55,San Francisco,Manager,123925.12324825038
+16,High School,44,San Francisco,HR,85868.01981822657
+15,High School,51,Chicago,Data Scientist,84013.60322256263
+15,Bachelor's,29,New York,Software Engineer,77706.56668950393
+19,PhD,43,New York,Data Scientist,125215.33036166595
+12,PhD,57,New York,Data Scientist,125871.3990953007
+23,Master's,26,Chicago,HR,107687.54546785189
+20,Bachelor's,34,New York,Manager,88854.47
+25,High School,50,Chicago,Data Scientist,97252.61500485265
+3,Bachelor's,52,Austin,Manager,78927.54146937563
+5,Master's,37,Chicago,HR,70209.79856887592
+19,Master's,51,Austin,Manager,103588.20454027219
+7,Bachelor's,37,New York,HR,70172.67692460679
+21,Bachelor's,33,Austin,Software Engineer,70714.41447220027
+9,Bachelor's,38,Chicago,Manager,91850.99585354816
+7,PhD,37,San Francisco,Manager,94510.01548380897
+18,High School,33,Austin,Software Engineer,83191.35817040404
+4,Bachelor's,29,Austin,Manager,43362.27231947462
+25,Bachelor's,41,New York,Software Engineer,108696.08348973325
+28,Bachelor's,24,Chicago,Data Scientist,130024.32956321612
+14,Master's,37,Austin,HR,81956.17
+18,Master's,51,Austin,Software Engineer,82993.52620135946
+26,PhD,44,Austin,Manager,133984.35657080362
+9,High School,49,Austin,Software Engineer,79139.56288217012
+26,PhD,26,San Francisco,Manager,136082.3551875993
+21,High School,41,Chicago,Data Scientist,106597.7576584912
+2,Master's,22,New York,Software Engineer,83628.92918366933
+20,Master's,51,New York,Data Scientist,107805.56751193275
+28,Master's,42,San Francisco,HR,125615.48688047423
+15,PhD,41,Chicago,Manager,84166.89266518361
+28,Bachelor's,27,Austin,Manager,102922.55641457847
+7,Bachelor's,43,San Francisco,Data Scientist,74766.31140788955
+12,Master's,39,Chicago,HR,84751.61
+29,Bachelor's,29,Austin,Software Engineer,116403.21895079236
+8,Bachelor's,53,San Francisco,Software Engineer,86033.94090500347
+15,PhD,54,Chicago,Manager,87076.60177942923
+3,High School,37,New York,Data Scientist,74055.29823939345
+14,Master's,33,New York,Data Scientist,89150.78103588798
+17,Master's,59,Chicago,Software Engineer,108324.32
+4,PhD,55,New York,HR,71222.97189993168
+18,PhD,35,Chicago,HR,106582.41825514221
+8,Bachelor's,57,Austin,Software Engineer,83386.91383926343
+4,Master's,54,Chicago,Software Engineer,64854.529306527904
+2,High School,44,Austin,Data Scientist,73152.64355952544
+6,PhD,23,San Francisco,HR,64914.95895421156
+22,High School,42,Chicago,Software Engineer,85613.02558305165
+10,High School,23,San Francisco,Software Engineer,88393.08525597994
+4,Master's,48,New York,Manager,87449.10844500888
+22,Master's,30,Austin,Software Engineer,122054.11019385143
+29,PhD,22,Chicago,Software Engineer,111833.29049008041
+18,Master's,32,San Francisco,HR,121724.64601100118
+26,Master's,24,Austin,Data Scientist,96611.50435729246
+12,Master's,44,Austin,HR,64295.907046136985
+2,High School,47,New York,Data Scientist,74647.50098845913
+10,PhD,25,New York,Manager,75954.33
+4,Bachelor's,39,Austin,Software Engineer,54921.01286298294
+14,High School,27,Austin,Manager,95953.66736808082
+16,Master's,56,Chicago,Data Scientist,111452.20505370574
+15,High School,43,Austin,HR,68567.24706073017
+8,Master's,36,Chicago,HR,53973.59852766602
+14,Master's,43,Austin,Manager,96715.25328682589
+23,High School,58,New York,Data Scientist,118285.98330493121
+28,PhD,33,Chicago,Manager,116028.33650836641
+25,Master's,59,San Francisco,Manager,128715.94226100612
+8,PhD,39,New York,Software Engineer,97002.04114487795
+21,Bachelor's,56,Chicago,Manager,120224.7538443781
+16,Master's,51,Chicago,Software Engineer,87990.17015877554
+13,PhD,45,San Francisco,Software Engineer,98353.11788268799
+18,PhD,51,Chicago,HR,105306.83400509338
+15,Bachelor's,35,Austin,Software Engineer,98307.90792995293
+21,PhD,27,San Francisco,Software Engineer,101435.75687855195
+24,PhD,24,New York,HR,97003.80419553605
+26,Bachelor's,37,New York,Manager,117949.95918393519
+25,Master's,28,Austin,Data Scientist,106835.08533488809
+28,PhD,35,New York,Data Scientist,120409.1364191131
+28,PhD,30,Chicago,Data Scientist,96739.94614864432
+28,PhD,36,Chicago,Manager,147694.85749939168
+13,High School,42,Austin,Software Engineer,58350.34423618504
+9,Bachelor's,56,New York,Data Scientist,111472.61297790642
+29,High School,23,New York,Manager,125703.38483322228
+15,Bachelor's,48,Austin,Software Engineer,77683.51
+13,Master's,23,San Francisco,HR,103511.79564074037
+1,Master's,56,New York,Data Scientist,69480.14607266017
+25,PhD,39,San Francisco,Software Engineer,103645.21444796269
+7,Bachelor's,35,New York,Data Scientist,77948.00688669611
+9,Master's,41,New York,Data Scientist,77292.93
+24,Bachelor's,39,New York,Data Scientist,117301.8401139576
+1,Master's,31,New York,Software Engineer,62917.43926761439
+12,High School,46,Chicago,Manager,80092.67372659042
+8,Master's,23,San Francisco,Software Engineer,82222.84643801587
+24,High School,46,San Francisco,Data Scientist,112015.26024220289
+11,Master's,54,New York,Software Engineer,99569.45831060645
+19,PhD,57,New York,HR,100981.1937516374
+17,High School,52,San Francisco,Manager,120642.25043622067
+8,Master's,35,Chicago,Software Engineer,91902.81054550289
+3,PhD,22,Austin,HR,80281.12037486066
+3,High School,37,Austin,Manager,48761.46714484455
+1,PhD,24,San Francisco,HR,76170.66199248744
+27,Bachelor's,56,New York,Manager,124256.33372851074
+5,Bachelor's,27,New York,Software Engineer,42487.11483626762
+10,High School,46,Chicago,HR,56625.615662243945
+7,Master's,34,Austin,Data Scientist,89489.21
+26,High School,55,Chicago,HR,106621.00224087633
+9,PhD,29,Austin,Manager,85744.21646114023
+28,Master's,42,San Francisco,Software Engineer,125209.94588813857
+7,Bachelor's,55,Austin,Manager,85254.31960173853
+9,Master's,25,Chicago,HR,76286.55197957341
+8,Bachelor's,46,Chicago,HR,72027.21602512915
+12,Master's,36,Chicago,Data Scientist,91575.48906888229
+2,Master's,25,San Francisco,Software Engineer,68001.80370751949
+1,Master's,33,Austin,Software Engineer,51445.67
+16,PhD,53,Austin,HR,105338.22552530174
+23,PhD,53,Chicago,Software Engineer,108757.58083061544
+23,High School,49,Austin,Data Scientist,79305.82334310748
+24,High School,34,New York,Manager,122922.70902260017
+5,Bachelor's,52,New York,Software Engineer,55064.26930055178
+3,PhD,35,New York,HR,60854.39493156699
+12,Bachelor's,41,Austin,Manager,74135.17
+8,High School,39,San Francisco,Manager,85819.35
+22,Bachelor's,50,San Francisco,Data Scientist,114149.82243750583
+27,High School,27,San Francisco,HR,94795.13361678521
+3,PhD,53,San Francisco,Software Engineer,84332.77602488622
+1,Master's,50,New York,HR,62880.39208228754
+3,PhD,23,New York,Manager,93238.36
+5,Bachelor's,44,Chicago,HR,37867.660127393014
+15,Bachelor's,40,Austin,Software Engineer,90429.68934188798
+14,PhD,52,Austin,Software Engineer,112420.2276196141
+3,PhD,26,San Francisco,Data Scientist,91170.70
+1,High School,40,New York,Software Engineer,69663.22088808779
+5,Bachelor's,55,San Francisco,Software Engineer,58404.99822918697
+26,Bachelor's,31,Chicago,HR,87857.91071786059
+23,PhD,46,Austin,HR,109357.30206105745
+14,Master's,23,Austin,Manager,113060.76280863927
+7,Bachelor's,32,San Francisco,Data Scientist,68418.31348075508
+27,Master's,52,Chicago,HR,105493.38380896725
+9,PhD,36,Austin,Software Engineer,85615.57474184482
+15,PhD,30,Chicago,Manager,96228.05378208838
+15,High School,44,Chicago,HR,75953.59
+26,Bachelor's,40,San Francisco,Data Scientist,98039.04602316393
+10,Master's,30,New York,Data Scientist,96881.38
+28,High School,56,San Francisco,Manager,120578.21036760561
+13,Bachelor's,42,New York,Manager,86690.29619378842
+19,High School,30,Chicago,Manager,96055.43140181499
+7,PhD,49,New York,Manager,101171.02391697961
+17,Bachelor's,28,Chicago,Manager,99657.88187855277
+20,High School,37,Austin,Software Engineer,103412.28869016915
+29,High School,37,Austin,Software Engineer,86195.55573376406
+4,Master's,54,Austin,HR,69244.73559629596
+5,High School,25,San Francisco,Data Scientist,69870.35925251222
+23,Bachelor's,25,San Francisco,Software Engineer,117203.76608155311
+7,Bachelor's,38,Chicago,Software Engineer,78755.31821268528
+13,Master's,58,Austin,Software Engineer,95943.31447626052
+15,Bachelor's,50,San Francisco,HR,102346.47068192309
+11,PhD,57,Austin,Manager,111618.9583357728
+29,Bachelor's,59,San Francisco,HR,125438.27836677096
+4,Bachelor's,58,New York,Data Scientist,73898.34113783822
+13,High School,56,New York,Data Scientist,85304.75911385898
+7,High School,28,Austin,Data Scientist,64725.61409290825
+27,Bachelor's,48,Chicago,Data Scientist,113954.58597483904
+19,Master's,49,San Francisco,Software Engineer,92048.10139750004
+22,High School,43,San Francisco,Software Engineer,125928.56166957362
+28,Master's,35,New York,HR,112603.4394772241
+2,Bachelor's,28,New York,Manager,48485.04708122971
+10,Bachelor's,58,Chicago,Data Scientist,69495.59169295234
+13,PhD,43,Chicago,HR,62815.34465982203
+25,High School,26,Chicago,Software Engineer,89244.68719324279
+21,Bachelor's,23,Austin,Software Engineer,93256.31242959404
+6,PhD,48,New York,Manager,113654.30600181254
+28,High School,42,Austin,Manager,115842.97156570779
+28,Bachelor's,59,New York,Manager,121687.66684787611
+12,Bachelor's,36,New York,HR,60464.06241213142
+12,High School,42,San Francisco,Software Engineer,74840.02
+20,High School,31,New York,Software Engineer,81987.33273154909
+11,High School,44,New York,Manager,77878.67115057382
+26,Bachelor's,26,Austin,Data Scientist,103814.46333591673
+23,Bachelor's,22,New York,Manager,115391.0816513611
+28,PhD,34,Austin,HR,108074.38782826992
+25,Master's,42,Chicago,Manager,112600.04731257612
+7,High School,47,New York,Manager,83636.94956391613
+1,Bachelor's,42,New York,HR,50230.94261117187
+1,Bachelor's,39,Austin,Manager,52060.38941006282
+25,High School,58,Chicago,Software Engineer,104801.24453268816
+27,Master's,53,San Francisco,Data Scientist,128841.18931698964
+25,High School,57,Chicago,Manager,91231.74356091578
+20,Master's,38,Austin,HR,94035.86
+13,Bachelor's,56,Chicago,Data Scientist,105674.14459302915
+9,Master's,32,Austin,HR,59879.64130472993
+3,PhD,42,Austin,Data Scientist,57546.434935863195
+7,Bachelor's,47,San Francisco,Data Scientist,80596.67732170773
+6,PhD,25,New York,Manager,100678.62340104963
+8,High School,55,Austin,Software Engineer,81527.33752864892
+27,High School,39,Austin,Manager,118844.85762794588
+9,High School,56,San Francisco,HR,86151.54808362179
+5,Master's,50,Austin,HR,74482.21554604625
+1,Bachelor's,50,New York,Data Scientist,64025.958869019574
+19,High School,59,San Francisco,Data Scientist,114501.45061363043
+10,High School,42,New York,Software Engineer,71212.57672733665
+12,Bachelor's,34,New York,Manager,98179.93315414974
+24,High School,38,San Francisco,HR,88729.88510086475
+15,PhD,30,Austin,Data Scientist,106892.08850782411
+27,Bachelor's,22,New York,Software Engineer,115751.0162362691
+22,Bachelor's,23,New York,HR,101379.39531570395
+24,Bachelor's,50,New York,Data Scientist,110312.21531777461
+9,PhD,54,New York,HR,79609.33320637517
+20,Bachelor's,31,San Francisco,Software Engineer,116979.48884949413
+17,PhD,42,San Francisco,Software Engineer,102385.53648796688
+17,Bachelor's,49,Chicago,HR,75263.08953347694
+26,Master's,32,Chicago,Manager,105154.75723426815
+20,High School,55,New York,HR,90673.48345197056
+12,Master's,29,Austin,Data Scientist,75704.57671536431
+7,High School,43,New York,Manager,62067.01012862203
+2,PhD,29,Austin,Data Scientist,73420.85400356841
+3,Master's,36,New York,HR,72693.92780756309
+17,Bachelor's,38,Chicago,Manager,90502.90059066018
+5,High School,44,Chicago,Data Scientist,80341.93613954744
+17,High School,45,Austin,HR,93544.99274856101
+24,Master's,40,New York,HR,121735.05329296217
+17,PhD,26,Austin,Manager,105072.28575892469
+27,Master's,53,Chicago,HR,112026.4272091438
+17,PhD,22,New York,Software Engineer,105142.60671728286
+2,PhD,44,New York,Data Scientist,86176.70578684786
+2,High School,58,Austin,Data Scientist,52225.40719145973
+28,Master's,29,San Francisco,HR,127679.33487847121
+22,Master's,34,Austin,HR,83470.78190844192
+23,PhD,29,Chicago,Software Engineer,114754.63331000421
+5,Master's,44,Chicago,Manager,85063.42464272224
+1,Bachelor's,22,Chicago,HR,41660.86738854069
+1,Bachelor's,45,Chicago,HR,52908.89669415545
+19,Master's,56,Chicago,HR,85421.42394210486
+2,Master's,45,San Francisco,HR,49069.72282983441
+21,PhD,38,New York,Data Scientist,121874.57780541753
+12,Bachelor's,26,Austin,HR,69286.99301210674
+26,Bachelor's,41,Austin,Data Scientist,89683.42
+6,High School,42,Chicago,HR,41969.29025729512
+23,PhD,52,Austin,Manager,110021.40217770782
+4,High School,57,Chicago,Software Engineer,68565.28046224892
+23,Bachelor's,32,San Francisco,Manager,119670.29
+11,PhD,36,San Francisco,HR,81579.38885457307
+24,Master's,40,New York,HR,102229.72943866799
+27,PhD,28,San Francisco,HR,128079.49946744413
+17,Master's,49,San Francisco,Manager,116994.54621545319
+6,Master's,26,New York,HR,44808.00701556599
+24,PhD,26,Austin,Manager,136947.98473853062
+5,Master's,51,Chicago,Data Scientist,76369.84701858915
+20,High School,53,Chicago,Software Engineer,105535.37191788823
+2,Bachelor's,29,Austin,Software Engineer,49578.23047092797
+6,Master's,31,New York,Manager,97080.32868508756
+22,High School,59,Austin,Data Scientist,89377.92641518502
+11,Master's,53,San Francisco,Manager,96936.58321203478
+16,Bachelor's,49,New York,Data Scientist,101297.45878665721
+16,High School,38,New York,HR,65603.27519870317
+1,Bachelor's,52,New York,Data Scientist,73735.80
+9,Bachelor's,29,Chicago,Data Scientist,72054.88
+28,High School,46,Austin,Data Scientist,119997.75053128549
+27,High School,30,New York,Software Engineer,115275.18097232525
+6,High School,23,New York,Data Scientist,71625.82
+16,PhD,36,New York,HR,107146.31005875752
+29,High School,24,Austin,HR,92528.80
+3,High School,57,Chicago,HR,48845.37530034545
+20,High School,25,San Francisco,Data Scientist,105021.34535145748
+28,High School,35,Chicago,Manager,139352.73118929152
+27,Master's,46,New York,Manager,124777.82028840468
+4,PhD,31,Chicago,HR,55717.93637592267
+19,Bachelor's,42,Chicago,Software Engineer,93431.14906916102
+26,High School,57,San Francisco,Manager,132814.62778377847
+3,Master's,33,Austin,Data Scientist,70391.33171902485
+19,Master's,48,Austin,Manager,120733.8644931034
+20,Master's,23,Chicago,HR,97595.56526625613
+7,Bachelor's,34,Chicago,Software Engineer,73277.18869551645
+20,High School,53,Austin,Manager,92054.15757540983
+9,PhD,52,Austin,Manager,113208.81754477035
+1,PhD,37,San Francisco,HR,85570.90407847299
+8,Master's,53,New York,Software Engineer,80493.43950352186
+7,Bachelor's,53,Chicago,Software Engineer,56882.59120703209
+18,Bachelor's,55,Austin,HR,74597.05403314262
+8,Bachelor's,32,Chicago,Data Scientist,78912.66
+1,PhD,31,Chicago,Manager,64873.25785148949
+11,Master's,36,Austin,Data Scientist,62260.620746671695
+28,High School,38,San Francisco,Manager,101558.15589918943
+25,PhD,39,Chicago,Manager,128478.0783591467
+25,Master's,30,San Francisco,Data Scientist,128986.60
+18,Master's,46,Austin,HR,104124.69109425554
+23,High School,35,New York,HR,97073.25
+10,High School,46,New York,Manager,77916.30465544906
+3,High School,43,Chicago,HR,61565.68111463904
+7,Bachelor's,51,Austin,Manager,91527.84339676029
+28,High School,41,San Francisco,HR,114468.48745232169
+16,Master's,42,Chicago,Manager,108492.65646743991
+26,High School,53,Austin,HR,107802.04208691555
+16,Master's,42,Austin,Software Engineer,98382.37335272253
+25,PhD,56,San Francisco,Data Scientist,138948.0714505353
+20,Bachelor's,53,Chicago,Software Engineer,96056.92783362707
+28,PhD,51,Austin,Data Scientist,136779.30698617746
+17,PhD,33,Austin,Data Scientist,96406.62648348685
+2,Master's,39,Austin,Manager,49705.874875268804
+1,PhD,42,San Francisco,Data Scientist,67519.07582674034
+16,Master's,34,Chicago,Software Engineer,81622.79512690376
+12,High School,42,Chicago,Software Engineer,74690.75728704438
+5,High School,29,Chicago,HR,48086.326051657554
+5,Master's,28,Chicago,Software Engineer,69218.21567992754
+27,High School,44,New York,HR,103596.45198684097
+23,Bachelor's,53,New York,Data Scientist,101107.47825965018
+9,PhD,32,Chicago,Software Engineer,68996.12605964219
+9,Bachelor's,43,San Francisco,Data Scientist,87557.98504858317
+3,PhD,43,New York,Software Engineer,66919.39378543918
+19,High School,46,Austin,Software Engineer,88431.61644065655
+16,Bachelor's,43,New York,HR,80854.59239345106
+16,High School,49,Austin,Data Scientist,89528.58349044285
+3,PhD,50,Chicago,Software Engineer,56432.29594719732
+20,Master's,34,New York,Manager,124026.20545077157
+24,Master's,39,San Francisco,Data Scientist,125629.60820857523
+22,Bachelor's,23,New York,Data Scientist,103485.08248066953
+24,High School,50,New York,Data Scientist,122445.01561487056
+1,High School,42,New York,HR,55000.58
+24,Bachelor's,36,Chicago,Manager,112771.97338318825
+20,Master's,48,San Francisco,Data Scientist,110174.02765626235
+11,PhD,52,New York,Software Engineer,89621.09255749015
+17,Bachelor's,36,San Francisco,Software Engineer,98077.17
+8,PhD,44,Chicago,HR,82912.22801305821
+4,Master's,45,Austin,Software Engineer,80157.93281763185
+6,High School,34,New York,Data Scientist,96730.82420721548
+8,Master's,43,San Francisco,Software Engineer,90627.61451165163
+20,Bachelor's,58,San Francisco,Data Scientist,86928.12836540234
+3,High School,54,Chicago,Software Engineer,44858.93240499089
+16,Bachelor's,24,New York,Manager,117940.36397861762
+25,Bachelor's,40,Austin,HR,105171.93896750524
+3,Master's,44,San Francisco,HR,75762.22401881768
+25,Bachelor's,50,New York,Manager,126180.95306725222
+29,Master's,51,Austin,Manager,116552.96464987873
+18,High School,46,San Francisco,HR,104181.74474105437
+14,Master's,58,San Francisco,Manager,96113.44942554881
+18,High School,29,Austin,Data Scientist,91932.11000877486
+2,Master's,37,Austin,Software Engineer,42379.15076690296
+22,PhD,29,Chicago,HR,106410.23119344514
+3,PhD,22,New York,Manager,81963.17720775082
+16,Bachelor's,26,New York,Data Scientist,94543.58
+29,Master's,24,Chicago,HR,104375.18171296357
+9,Master's,22,San Francisco,Manager,92744.33661036621
+4,High School,25,Austin,HR,32650.032867928778
+1,Bachelor's,56,Austin,Manager,59587.85422775001
+4,Master's,53,Austin,HR,70523.94283536817
+1,Bachelor's,55,San Francisco,Data Scientist,72229.79336903627
+14,PhD,46,Austin,Data Scientist,111167.48189879459
+21,Master's,31,Austin,Software Engineer,112098.8575416191
+16,Master's,42,Chicago,HR,94208.30723567857
+20,Bachelor's,48,San Francisco,Software Engineer,87486.70340365775
+24,Master's,48,New York,HR,97110.46704963001
+8,Bachelor's,23,Chicago,Manager,83158.33226100156
+7,Master's,34,Chicago,Manager,89456.89775579008
+3,High School,30,New York,Software Engineer,80823.59763150159
+17,Bachelor's,57,Chicago,HR,79684.41047277061
+1,Master's,43,San Francisco,Software Engineer,85768.20548344342
+16,PhD,47,Austin,Data Scientist,104752.02021905311
+12,Master's,33,San Francisco,Software Engineer,77914.98592390488
+27,PhD,38,New York,Software Engineer,114575.04835805684
+19,PhD,35,New York,Manager,125699.17925121577
+22,High School,35,Chicago,Software Engineer,74628.77647594911
+23,Bachelor's,55,San Francisco,HR,91746.87237339569
+22,Master's,41,San Francisco,Manager,98107.23875477495
+14,High School,32,New York,Software Engineer,81889.30026378916
+6,Master's,37,San Francisco,Data Scientist,79198.43654459757
+6,PhD,52,New York,Software Engineer,77395.40200060619
+13,Bachelor's,27,San Francisco,Software Engineer,87152.86566443683
+19,Master's,40,San Francisco,Software Engineer,86511.79986812298
+22,Master's,58,San Francisco,Manager,114696.0529613844
+8,PhD,25,New York,HR,53286.47918070045
+27,Master's,25,Chicago,Data Scientist,136977.33237958114
+27,Master's,41,San Francisco,Software Engineer,141511.3219207578
+2,PhD,31,New York,HR,38417.506823822674
+21,High School,45,New York,HR,84593.22903697877
+1,PhD,56,San Francisco,Manager,89468.69267195949
+28,High School,47,San Francisco,Data Scientist,117564.55878227355
+15,Bachelor's,58,Chicago,Manager,106129.36355478814
+1,High School,59,New York,HR,44331.41
+5,High School,42,New York,HR,53192.523803593314
+28,Bachelor's,42,Austin,HR,140907.16869022968
+29,High School,31,New York,Manager,128356.57886765723
+16,PhD,59,Chicago,Data Scientist,117636.42658905732
+19,High School,25,Austin,Software Engineer,97544.58821997893
+4,Bachelor's,41,Austin,Manager,64125.96298779098
+3,PhD,38,Austin,HR,60260.90010509012
+17,Bachelor's,28,San Francisco,Manager,113778.34307407498
+17,Bachelor's,25,San Francisco,HR,79509.88577401626
+12,Master's,50,New York,Software Engineer,78721.63
+28,Master's,35,Austin,Software Engineer,114274.79880868313
+29,Bachelor's,24,Chicago,Data Scientist,114783.67123409105
+14,Bachelor's,45,San Francisco,HR,111495.27900661262
+21,Bachelor's,58,Chicago,Data Scientist,100664.5026942303
+6,Master's,37,Chicago,Data Scientist,79426.42792301024
+3,Master's,25,San Francisco,Software Engineer,54200.183517600206
+28,High School,45,San Francisco,Manager,129185.57384973133
+9,High School,55,San Francisco,Manager,68602.31
+5,Bachelor's,51,San Francisco,Data Scientist,86763.67591104233
+24,PhD,39,Austin,Software Engineer,105784.28280862456
+29,PhD,40,Austin,HR,115566.14569195708
+17,Master's,52,Austin,Manager,103561.93824343917
+14,Master's,40,Austin,Data Scientist,77920.11307608192
+21,Master's,40,New York,Manager,106830.9240339083
+3,Bachelor's,43,Austin,Manager,74629.50164549313
+28,PhD,45,San Francisco,HR,130636.28162291358
+1,High School,33,Chicago,Software Engineer,49833.50617706167
+20,Bachelor's,51,Austin,HR,102260.26535513428
+29,High School,59,New York,Software Engineer,126984.18939340618
+21,High School,52,San Francisco,Manager,101919.4665390848
+23,Bachelor's,57,Chicago,Data Scientist,131164.64287391852
+1,High School,40,Chicago,HR,54176.353175287484
+3,PhD,57,Austin,Software Engineer,75949.19698447314
+18,High School,51,Chicago,Manager,99593.73683023606
+25,PhD,54,Austin,Software Engineer,121663.5544710929
+10,PhD,39,Austin,Software Engineer,77930.54
+22,PhD,49,San Francisco,Software Engineer,109502.61614102853
+26,Master's,32,San Francisco,Manager,150223.80187010678
+3,High School,54,New York,Data Scientist,74254.04022774554
+8,Bachelor's,38,San Francisco,Data Scientist,75964.87
+14,Bachelor's,27,San Francisco,Data Scientist,87407.51864702812
+24,High School,25,Austin,Software Engineer,107721.37392288522
+18,Master's,41,San Francisco,Manager,117149.01844652466
+15,Master's,48,Austin,Software Engineer,98827.04394604563
+22,PhD,36,Austin,Data Scientist,104039.59515696326
+23,High School,27,San Francisco,Data Scientist,119678.47
+2,High School,35,New York,Manager,65200.81211172331
+27,Bachelor's,32,New York,Software Engineer,110211.59910474716
+10,High School,30,Chicago,HR,62595.476035072796
+2,Master's,47,Chicago,HR,71218.86081149391
+26,High School,37,San Francisco,Data Scientist,117945.76631341796
+17,Bachelor's,26,New York,Manager,89326.71456030909
+8,PhD,31,Austin,Software Engineer,80635.12159600649
+1,Bachelor's,24,Chicago,Software Engineer,45847.619261620785
+9,Bachelor's,34,Austin,Data Scientist,88844.80348585383
+11,PhD,51,Chicago,Data Scientist,109765.22890014757
+22,Bachelor's,27,San Francisco,Software Engineer,102584.53070040997
+16,Bachelor's,38,New York,Software Engineer,90097.80956997926
+7,High School,40,Chicago,Data Scientist,82786.46767822909
+29,High School,56,New York,Software Engineer,108366.76317690256
+10,PhD,47,Austin,HR,70611.66686823138
+23,High School,26,San Francisco,Data Scientist,104197.19638988152
+26,High School,50,New York,Software Engineer,104557.61536193735
+3,Bachelor's,58,San Francisco,Data Scientist,66523.08356768865
+18,Master's,41,New York,Manager,124022.40203623794
+25,High School,42,Austin,Data Scientist,81598.73
+24,Master's,31,Austin,Data Scientist,99429.25907416875
+13,High School,26,San Francisco,Manager,90353.33570888471
+28,High School,57,Austin,HR,113502.4041574046
+26,PhD,27,Chicago,Software Engineer,129908.43123478611
+7,PhD,47,New York,Manager,115610.5532614391
+25,PhD,25,Austin,Data Scientist,95815.29496150372
+4,Master's,56,Chicago,Software Engineer,53959.047819675136
+13,Bachelor's,22,San Francisco,Manager,99935.12988116416
+20,High School,45,Chicago,Software Engineer,92874.28203400027
+1,High School,57,San Francisco,Software Engineer,47507.72710432557
+8,High School,27,San Francisco,Manager,79207.88788480462
+14,Master's,52,New York,Software Engineer,94924.42129160944
+16,PhD,41,New York,HR,96034.32474976049
+14,Bachelor's,45,Chicago,Manager,83838.36014990622
+12,Master's,46,New York,HR,63037.50
+19,PhD,57,New York,Data Scientist,109883.92677465362
+23,Master's,42,New York,Software Engineer,120362.05558370241
+15,Bachelor's,51,Chicago,Data Scientist,76251.91172528482
+28,PhD,45,Austin,Data Scientist,123332.81093179031
+2,Master's,51,New York,Software Engineer,59927.623644082705
+2,Bachelor's,43,New York,Manager,72499.68
+23,High School,49,Chicago,Software Engineer,104423.25650555501
+22,Bachelor's,28,Austin,Data Scientist,116285.25139641573
+19,High School,56,New York,Data Scientist,105228.82383362167
+25,Master's,49,San Francisco,Manager,141934.18102685286
+26,PhD,35,Chicago,Software Engineer,117203.54036326139
+29,PhD,31,New York,Data Scientist,117698.21175507184
+22,Master's,37,New York,HR,105011.45161508615
+26,PhD,37,San Francisco,Data Scientist,126888.63765746355
+26,PhD,52,San Francisco,Data Scientist,126820.06675592413
+22,High School,46,Chicago,Manager,93408.40
+17,Master's,34,Chicago,HR,92468.46593378606
+20,Bachelor's,27,San Francisco,Data Scientist,107510.42184385208
+10,High School,30,Chicago,Data Scientist,87373.50234835669
+6,Master's,57,San Francisco,HR,67712.90
+15,High School,41,New York,Software Engineer,66858.33978136846
+22,Bachelor's,39,San Francisco,Software Engineer,111361.0387691447
+11,Bachelor's,42,San Francisco,Data Scientist,92716.42482847148
+28,Master's,25,Austin,Data Scientist,126127.20404483457
+5,Bachelor's,54,San Francisco,Software Engineer,87635.15558803124
+1,High School,48,San Francisco,Manager,89003.29717503577
+8,Bachelor's,28,Austin,HR,59329.92943862529
+21,High School,27,Chicago,HR,52503.05432194036
+28,High School,36,Austin,Manager,108861.05384290531
+12,Bachelor's,39,New York,Manager,97003.09215251234
+12,Master's,53,Austin,Manager,95404.41279229375
+5,PhD,32,New York,Manager,89978.14
+7,Bachelor's,41,Chicago,Manager,76709.62203152003
+4,High School,45,Austin,Manager,93832.14711396376
+6,High School,36,Austin,HR,39424.97091781426
+13,Bachelor's,28,Chicago,Manager,90656.31680304375
+20,Master's,42,New York,Software Engineer,96551.64547353121
+15,Master's,47,Austin,Manager,90512.17396748804
+3,High School,35,New York,Manager,87442.71765977495
+23,High School,58,Austin,HR,94792.16615593077
+8,Master's,42,San Francisco,HR,81795.26487597737
+20,PhD,39,Austin,Manager,96520.74364186403
+16,Bachelor's,26,Chicago,HR,80396.27832470216
+13,High School,24,Chicago,Data Scientist,92754.09398657866
+18,High School,44,New York,HR,74450.35165185327
+28,Master's,47,Austin,HR,108488.69948464922
+10,Bachelor's,58,New York,HR,85021.79372852457
+19,Master's,45,New York,HR,90840.24801530445
+17,Bachelor's,40,San Francisco,Software Engineer,123345.3860902045
+24,Bachelor's,46,San Francisco,Software Engineer,106016.68264422033
+19,Bachelor's,42,Chicago,Software Engineer,95227.67944683836
+28,High School,33,New York,Manager,137496.47305978375
+26,PhD,54,Chicago,Manager,146768.69535237073
+23,Master's,25,Austin,Data Scientist,82346.26871326726
+26,PhD,28,New York,Software Engineer,113801.88329272694
+5,Master's,43,New York,Manager,82500.84838201963
+26,Bachelor's,54,Austin,HR,106127.0905545757
+21,High School,38,Austin,HR,74381.57036094679
+23,PhD,45,Chicago,Software Engineer,107891.86524866414
+9,High School,55,Chicago,Data Scientist,66988.72365529583
+12,Master's,49,Austin,Data Scientist,79395.17699099214
+21,High School,43,Chicago,HR,88292.15860595243
+1,High School,38,Austin,Data Scientist,61489.224834980305
+26,PhD,55,New York,Software Engineer,117807.31084259265
+26,Bachelor's,27,New York,HR,104547.78132165081
+1,High School,27,San Francisco,Manager,70330.60825967319
+15,Bachelor's,55,New York,Manager,97930.07905872073
+2,Master's,22,Austin,Data Scientist,62819.94908655841
+22,High School,31,Chicago,HR,96165.82
+16,PhD,42,San Francisco,HR,98613.52143629083
+25,Master's,26,Chicago,Manager,116765.98439157056
+8,Master's,23,Austin,HR,72028.09138546854
+13,PhD,43,New York,HR,88219.85943078186
+21,High School,23,San Francisco,HR,91678.46764306231
+1,High School,31,Austin,Data Scientist,60154.49479103883
+16,Master's,55,San Francisco,HR,97761.33983329541
+29,High School,37,San Francisco,Software Engineer,109182.58051881022
+7,Bachelor's,43,New York,Data Scientist,101840.51780516392
+5,PhD,33,Austin,HR,69419.07
+22,Bachelor's,45,Chicago,HR,90903.40974314236
+29,High School,59,San Francisco,Software Engineer,116880.95544047588
+23,Master's,31,San Francisco,Data Scientist,135916.55695892003
+3,PhD,56,Chicago,Manager,83676.16477829544
+12,High School,53,Austin,Manager,79315.05812156262
+26,High School,28,San Francisco,Data Scientist,116129.36887967607
+16,Master's,42,San Francisco,HR,87913.20730032733
+19,Master's,41,San Francisco,HR,102685.39959116849
+5,Bachelor's,47,Austin,Manager,106939.29083131839
+22,PhD,25,Austin,Manager,131450.78637934953
+25,PhD,43,Chicago,Manager,130817.9196859782
+29,Master's,36,Austin,Software Engineer,108921.10217182335
+14,Bachelor's,42,Austin,Manager,101313.88773908121
+28,PhD,36,New York,Software Engineer,140188.23600892292
+5,Master's,43,Chicago,Data Scientist,84193.12357934058
+15,High School,49,San Francisco,HR,87863.01612743667
+17,PhD,35,Austin,Manager,102102.84267125222
+14,Bachelor's,48,San Francisco,HR,99590.32317872705
+20,Bachelor's,49,San Francisco,HR,91692.37802006735
+5,Bachelor's,47,New York,Manager,69029.92019922228
+12,High School,23,Austin,Manager,63055.448031051434
+16,PhD,46,Chicago,Data Scientist,113594.46335659591
+26,PhD,24,Austin,Software Engineer,99553.36213685028
+26,High School,29,San Francisco,Software Engineer,102299.32764312088
+16,PhD,54,Chicago,HR,85883.95216143302
+21,High School,56,Austin,Manager,112247.39442646349
+7,High School,27,San Francisco,Data Scientist,68157.50832490379
+4,High School,44,San Francisco,Data Scientist,91955.62185747843
+1,Bachelor's,46,New York,Data Scientist,85211.08259145156
+5,PhD,40,New York,Data Scientist,67110.51424945888
+23,High School,26,New York,Data Scientist,109217.48874944777
+26,PhD,32,San Francisco,Software Engineer,120982.59060295239
+10,Bachelor's,33,Austin,Software Engineer,64230.29928576945
+22,High School,31,New York,Software Engineer,95393.55012430031
+5,Master's,29,Austin,Manager,76231.82528698542
+4,Bachelor's,45,New York,HR,59752.215698399945
+2,Master's,49,Chicago,Data Scientist,67583.55100462236
+20,PhD,57,Chicago,Manager,104866.33651137573
+10,PhD,58,New York,Data Scientist,102165.48420942714
+26,Bachelor's,42,San Francisco,Software Engineer,110952.10241022868
+19,PhD,29,New York,Manager,131915.51117973952
+26,Master's,30,New York,Software Engineer,123628.50880327958
+1,High School,36,San Francisco,Data Scientist,65804.73828040641
+24,High School,39,Chicago,Data Scientist,105010.20512569266
+5,High School,41,Austin,HR,62514.85082075393
+13,Bachelor's,27,New York,Data Scientist,107658.36599329153
+4,PhD,33,San Francisco,Software Engineer,94552.05036848968
+16,Master's,23,New York,Data Scientist,112638.82612617286
+24,PhD,28,San Francisco,HR,147675.2510673997
+16,PhD,37,Austin,HR,91226.32296885511
+23,PhD,24,Austin,Software Engineer,105504.76693443028
+2,High School,24,Chicago,Manager,86802.01392769362
+17,Master's,48,San Francisco,Data Scientist,87264.10955626673
+28,Master's,59,San Francisco,HR,115058.73366462803
+27,PhD,54,Chicago,Data Scientist,139098.08098529623
+20,High School,49,Chicago,Data Scientist,113552.84783307179
+24,High School,22,San Francisco,Manager,132692.12655590443
+12,Master's,29,Chicago,HR,81151.44699050969
+18,High School,58,Austin,Data Scientist,84791.30850812412
+3,High School,53,New York,HR,53599.935488114555
+28,High School,58,Austin,Software Engineer,113529.60308153092
+1,Bachelor's,25,Chicago,Software Engineer,73820.51849895366
+1,PhD,51,San Francisco,Data Scientist,93390.29807829564
+29,Master's,27,San Francisco,HR,117633.62259049588
+19,Master's,40,Austin,Data Scientist,111663.04976840025
+11,Bachelor's,53,San Francisco,HR,77828.64867759185
+5,PhD,30,Chicago,HR,69129.44016186878
+12,Master's,33,Austin,Manager,104014.04868528694
+3,High School,32,San Francisco,Manager,94267.69422852635
+1,Master's,37,New York,Manager,66746.43274561525
+1,High School,22,New York,Data Scientist,57792.005287476335
+8,Bachelor's,42,Chicago,Manager,83587.70801844816
+10,High School,51,San Francisco,Manager,104375.58664774784
+11,Master's,34,Chicago,Software Engineer,73943.43322245224
+12,Master's,55,Austin,HR,57355.72654828588
+29,Master's,25,New York,HR,124720.77496996548
+13,Bachelor's,49,Austin,Manager,95964.28672634586
+12,Bachelor's,59,San Francisco,HR,85721.24011696075
+14,PhD,52,Chicago,Software Engineer,92935.44501758897
+2,Master's,48,Chicago,Software Engineer,68863.42247357868
+29,High School,26,Chicago,Manager,120931.82280877171
+19,Bachelor's,46,Austin,Software Engineer,70436.32056751839
+18,Master's,24,New York,HR,98439.13
+3,Master's,54,Austin,Data Scientist,50859.24929845679
+23,Bachelor's,25,Austin,HR,99387.48881972427
+17,PhD,46,San Francisco,Data Scientist,122746.90598419675
+26,Bachelor's,41,San Francisco,Manager,119771.76631449185
+8,Bachelor's,55,San Francisco,Data Scientist,87965.81432531292
+29,High School,47,New York,Software Engineer,123520.14657764565
+26,High School,26,New York,HR,94816.14023490102
+10,PhD,56,San Francisco,Data Scientist,104811.27940524956
+26,Master's,49,San Francisco,HR,89443.46493458169
+2,Bachelor's,50,New York,Manager,85308.71416292293
+19,PhD,30,Chicago,Manager,113698.72502142783
+9,High School,59,New York,Software Engineer,67025.54052315757
+7,Bachelor's,27,New York,Manager,90509.79199278161
+4,Master's,40,New York,Data Scientist,98094.50613398905
+26,High School,32,San Francisco,Manager,124158.07525663977
+21,High School,23,Chicago,Software Engineer,108196.04839349524
+18,High School,30,New York,HR,69302.35247836198
+13,PhD,42,San Francisco,HR,103946.46403201025
+11,Master's,45,Austin,Manager,92973.21604652634
+29,Bachelor's,55,Austin,Data Scientist,109747.05590409072
+24,PhD,43,New York,Software Engineer,93456.51
+4,PhD,24,Austin,Data Scientist,75424.29384665226
+25,PhD,33,Chicago,Software Engineer,129141.3325978471
+21,High School,49,Austin,Manager,119171.4797497878
+29,Master's,51,Austin,Software Engineer,133111.72779803796
+25,PhD,47,Chicago,Software Engineer,113038.92076872967
+4,Bachelor's,42,New York,Manager,89299.27523499186
+10,Master's,49,New York,Data Scientist,100739.09295029068
+5,Bachelor's,47,Chicago,Manager,69198.12369848276
+9,Master's,54,Chicago,Software Engineer,75237.53
+24,Bachelor's,42,Chicago,Manager,110919.25137225624
+3,High School,56,Austin,Software Engineer,68943.13862776259
+17,PhD,55,Chicago,Manager,101656.42388636508
+3,Bachelor's,39,San Francisco,HR,69315.27757173443
+16,Master's,32,Austin,HR,75850.50207763075
+4,PhD,44,New York,Manager,70849.64781668417
+18,PhD,43,New York,Data Scientist,88611.94540944716
+17,Master's,38,New York,Software Engineer,102737.13263482152
+7,Bachelor's,26,Austin,HR,43533.098455121886
+24,High School,32,San Francisco,Data Scientist,122347.92864013629
+23,High School,51,Chicago,Software Engineer,111590.33609665802
+5,Bachelor's,36,Chicago,HR,66344.82311764511
+12,PhD,48,New York,HR,108046.54855157154
+17,PhD,56,New York,Manager,103174.46955258754
+23,PhD,54,Austin,Software Engineer,92233.48811438085
+13,PhD,41,San Francisco,Data Scientist,94337.87920396103
+23,Bachelor's,37,Chicago,Data Scientist,100257.56463061694
+25,PhD,55,Austin,Data Scientist,139321.60137840582
+3,Master's,23,Chicago,Software Engineer,49276.84625557285
+9,PhD,56,New York,Data Scientist,96619.51564744549
+17,High School,49,Chicago,Data Scientist,92322.08922021957
+17,PhD,27,San Francisco,Data Scientist,114462.07806495448
+20,Bachelor's,30,San Francisco,Manager,108906.96179402049
+16,High School,41,New York,Manager,101486.96871785591
+25,Bachelor's,22,San Francisco,Software Engineer,112441.43737110522
+22,Bachelor's,29,San Francisco,Software Engineer,104671.1807085364
+13,High School,44,Austin,Data Scientist,80743.44003689199
+27,Bachelor's,24,Chicago,Manager,99576.25196835466
+19,Bachelor's,25,New York,HR,102235.67
+17,PhD,46,New York,HR,78258.15162419483
+4,Master's,59,New York,Data Scientist,60533.93602959422
+12,Bachelor's,36,New York,Data Scientist,64861.76002786658
+29,Bachelor's,42,New York,Manager,119442.55376088654
+9,Bachelor's,56,San Francisco,Manager,109977.41311346502
+19,PhD,35,Austin,Manager,116478.56314564063
+12,Master's,57,New York,Software Engineer,104017.54321613128
+9,High School,33,Austin,Software Engineer,59967.13988057428
+7,PhD,38,Austin,Data Scientist,91501.17330126121
+28,PhD,30,San Francisco,Software Engineer,121953.75199212467
+14,Master's,56,New York,Manager,107985.91151763477
+20,Master's,34,San Francisco,Manager,109921.68835554807
+19,PhD,36,New York,Software Engineer,102648.8421129945
+26,High School,39,San Francisco,HR,91925.23014619574
+15,PhD,54,Austin,Data Scientist,90474.05440825055
+16,Master's,27,New York,HR,87611.93
+21,High School,48,Chicago,Data Scientist,96557.14090503188
+5,Master's,44,Austin,HR,71316.19
+3,High School,48,Chicago,Software Engineer,65025.46118498144
+12,Bachelor's,55,Austin,Data Scientist,88554.06736016164
+25,Master's,59,San Francisco,Data Scientist,127162.49057943473
+20,Master's,35,New York,Data Scientist,108608.83434132166
+27,PhD,57,Austin,Manager,129787.03998805438
+21,Master's,29,San Francisco,Manager,122385.32544308013
+4,Master's,56,New York,HR,47848.475343830614
+21,Bachelor's,40,New York,Software Engineer,91882.80480279207
+23,Master's,51,Austin,Manager,105552.98249353153
+16,Bachelor's,35,New York,Data Scientist,98845.85
+25,Bachelor's,41,Austin,Manager,126914.10241284451
+7,Bachelor's,46,New York,Software Engineer,71625.45345066153
+13,Bachelor's,45,Chicago,Manager,65275.24893732577
+21,High School,35,San Francisco,Data Scientist,91279.72
+10,PhD,47,Chicago,HR,78436.57996560942
+26,High School,59,Austin,Data Scientist,96239.38009969084
+7,Master's,44,Chicago,Software Engineer,75147.76159946492
+14,High School,43,Austin,HR,67111.56121366062
+26,High School,40,New York,Manager,136194.81638868115
+5,Master's,24,New York,Manager,54599.82216052148
+3,Master's,40,Austin,Manager,82937.87372907536
+23,Master's,30,Chicago,HR,108790.95
+29,High School,49,New York,Data Scientist,119375.67622900901
+11,High School,41,San Francisco,HR,77428.84
+11,Master's,28,New York,HR,98783.10
+18,PhD,35,San Francisco,Software Engineer,102660.62101975057
+15,PhD,30,Chicago,HR,83667.68301388287
+12,Bachelor's,40,San Francisco,Manager,69112.58630001263
+9,Master's,35,San Francisco,Data Scientist,101062.44610302255
+10,Bachelor's,59,San Francisco,Data Scientist,87590.89190228708
+26,PhD,57,San Francisco,Data Scientist,143038.88706579534
+12,Bachelor's,38,New York,Manager,88393.59
+17,Master's,51,San Francisco,Manager,107468.9332692394
+29,Master's,30,New York,Manager,122500.55389401424
+6,Master's,54,San Francisco,Manager,113200.84693982513
+7,High School,46,Austin,Manager,73433.53064109538
+14,Bachelor's,35,Chicago,HR,73490.29078739016
+13,PhD,32,San Francisco,Manager,101731.90031231933
+8,PhD,56,Austin,Manager,108712.51799857945
+10,PhD,35,San Francisco,Manager,91368.87428554022
+9,High School,51,San Francisco,Manager,97993.07
+18,High School,25,San Francisco,Data Scientist,106985.54051813664
+27,Master's,25,Austin,Manager,94727.87068810503
+26,PhD,49,Chicago,HR,103546.94319320977
+2,High School,29,Austin,HR,58257.647288917564
+5,Master's,23,Chicago,HR,56280.82369619589
+29,PhD,43,San Francisco,Software Engineer,130580.47119750897
+5,Bachelor's,37,New York,Data Scientist,57590.84100009882
+6,Master's,50,San Francisco,Manager,87914.14490003324
+19,High School,51,Chicago,Software Engineer,81522.52141017663
+8,High School,33,Austin,Manager,79376.29798763807
+16,Master's,56,San Francisco,Software Engineer,103817.37520455442
+13,Master's,32,Austin,Software Engineer,87338.92288598677
+1,High School,42,Austin,HR,75509.68
+22,Bachelor's,42,Austin,HR,111329.52007599288
+20,PhD,26,San Francisco,Software Engineer,91185.25104566399
+17,Bachelor's,41,Austin,HR,78789.72095829353
+7,Master's,58,Austin,Software Engineer,97368.45
+25,Bachelor's,24,San Francisco,Data Scientist,103441.33292495398
+13,High School,54,Austin,HR,97737.19071519932
+4,Master's,30,San Francisco,HR,71253.93
+4,PhD,30,Chicago,HR,75601.69426243735
+6,High School,25,Chicago,Data Scientist,86538.21012374616
+28,High School,56,Chicago,Software Engineer,101817.82758865785
+19,PhD,38,Austin,Manager,115069.24679384872
+29,PhD,55,New York,HR,151807.18497742712
+12,Bachelor's,45,New York,Software Engineer,90885.26
+22,Master's,53,Austin,Data Scientist,111936.37583423076
+7,PhD,22,New York,Manager,100329.61865870304
+27,PhD,29,San Francisco,HR,131418.31791663487
+10,Master's,44,New York,Data Scientist,91724.27024282196
+26,PhD,33,Austin,Data Scientist,146533.88138495784
+19,PhD,33,Austin,Manager,114673.73281290906
+7,Bachelor's,36,San Francisco,Software Engineer,73481.65
+3,High School,40,Chicago,HR,26137.32269166921
+13,High School,47,Austin,HR,52668.42
+13,High School,50,San Francisco,Software Engineer,93450.28946006701
+18,High School,43,New York,Software Engineer,107272.5541464058
+28,PhD,42,New York,Software Engineer,133603.39408698448
+26,Master's,59,San Francisco,Manager,116974.71786071388
+20,Master's,41,San Francisco,Manager,115061.4424133226
+28,Bachelor's,50,Austin,HR,95128.56348413421
+8,Bachelor's,25,New York,Manager,64164.84695299926
+29,PhD,28,San Francisco,Data Scientist,152270.4903823368
+9,Master's,49,New York,HR,94893.25629988746
+7,Master's,49,San Francisco,Manager,74106.21872213406
+1,High School,25,New York,Software Engineer,54574.30140500188
+3,PhD,43,Chicago,Data Scientist,49929.71641779654
+13,PhD,33,Austin,Software Engineer,92104.69708143106
+28,High School,24,New York,HR,120152.44351228535
+25,PhD,43,Chicago,Software Engineer,129444.38984050436
+28,PhD,23,New York,Manager,146671.70906971354
+17,Bachelor's,45,New York,Manager,102552.17556906563
+25,Master's,55,Chicago,HR,128277.52984823742
+24,PhD,48,New York,Software Engineer,127376.41652059436
+1,Bachelor's,22,New York,HR,54453.52157907694
+6,Master's,29,Austin,Software Engineer,67557.35140727276
+21,High School,44,Chicago,Data Scientist,90277.27426139597
+6,Bachelor's,59,Chicago,Manager,78271.56357633244
+26,Bachelor's,27,San Francisco,HR,102380.70151959044
+12,Master's,43,New York,Data Scientist,88282.20271051567
+13,High School,46,Austin,Data Scientist,66879.12525398705
+13,Bachelor's,39,New York,HR,64340.048812391906
+29,PhD,38,New York,HR,110481.31172950885
+15,PhD,33,San Francisco,Data Scientist,101791.06341707759
+21,PhD,27,New York,Software Engineer,113246.92154581408
+16,High School,47,Austin,Data Scientist,81107.72
+22,Bachelor's,48,Austin,HR,101416.69732293906
+21,PhD,29,San Francisco,Data Scientist,129175.8033084218
+11,High School,40,New York,Software Engineer,68023.59438875441
+28,PhD,22,Austin,Manager,121331.30467915197
+5,Master's,50,New York,Manager,75165.47752707812
+4,Bachelor's,56,New York,Data Scientist,61398.657664696635
+3,Bachelor's,35,New York,Software Engineer,71370.41132404484
+19,High School,56,San Francisco,Manager,116042.80760523325
+20,High School,41,New York,Data Scientist,102175.11091242684
+25,Bachelor's,34,Austin,Data Scientist,107140.27320557427
+18,PhD,59,New York,Software Engineer,112715.59404669714
+15,PhD,29,Austin,HR,92141.42885925279
+9,Master's,41,New York,Data Scientist,93442.65260499838
+17,PhD,54,Austin,HR,84679.01845321264
+14,High School,47,Austin,HR,77336.60770139245
+15,High School,42,New York,Manager,104002.5178094931
+1,PhD,30,New York,HR,72642.76
+21,High School,45,Austin,Software Engineer,89452.88339821828
+22,Bachelor's,58,Chicago,Manager,133577.0170572704
+22,Bachelor's,38,San Francisco,Manager,102412.94
+3,PhD,45,Chicago,Manager,85923.33920931323
+16,Bachelor's,42,Chicago,Data Scientist,96203.86
+23,Bachelor's,34,New York,Data Scientist,108726.21122232942
+25,Master's,32,San Francisco,HR,111099.72044414206
+11,Master's,40,Chicago,Manager,100981.31772626899
+12,Bachelor's,32,New York,Manager,97022.54243986151
+10,PhD,34,Chicago,Software Engineer,90903.81899187955
+16,Master's,22,Chicago,HR,82291.54
+8,High School,40,New York,Software Engineer,70823.18
+6,High School,33,New York,HR,70562.94283762621
+12,High School,29,New York,HR,74323.52030772564
+24,PhD,29,San Francisco,Data Scientist,102441.75855242755
+28,Bachelor's,33,Chicago,Data Scientist,121302.71125721913
+21,High School,54,New York,Software Engineer,118263.26200882875
+8,PhD,47,Austin,HR,88752.26890073878
+26,Master's,49,Chicago,Manager,117498.33115912281
+28,Bachelor's,26,Austin,Data Scientist,109061.31344875961
+4,Master's,29,San Francisco,Manager,86773.65224858683
+26,PhD,46,New York,Software Engineer,120485.35723616417
+8,High School,48,Austin,Data Scientist,79150.60490263684
+26,High School,44,San Francisco,Data Scientist,108972.69894968475
+28,PhD,51,New York,HR,133777.68667965298
+18,High School,44,Austin,Software Engineer,109930.62821289967
+28,Bachelor's,41,Austin,HR,101961.84210193444
+28,PhD,39,San Francisco,Data Scientist,134598.1886098485
+5,Master's,39,New York,Software Engineer,74204.58
+9,PhD,23,New York,Data Scientist,97183.46368341848
+4,Bachelor's,25,Austin,Software Engineer,45799.637737789686
+27,Bachelor's,51,Austin,Data Scientist,101245.41555637421
+22,PhD,54,Austin,Manager,131052.75
+17,PhD,57,New York,Manager,116991.99101559306
+9,High School,39,San Francisco,HR,78044.50
+1,Bachelor's,58,San Francisco,Manager,82339.59
+21,PhD,40,New York,Data Scientist,138721.18518154754
+20,PhD,49,Chicago,Data Scientist,116360.64460876449
+13,Bachelor's,41,San Francisco,Manager,105783.3106263404
+28,PhD,54,Austin,HR,100185.30365405597
+16,High School,33,Chicago,Manager,81062.31920983133
+29,Bachelor's,36,Chicago,Software Engineer,116701.46215584337
+13,High School,23,San Francisco,Software Engineer,88128.38596361433
+14,High School,50,Chicago,Software Engineer,72164.61515272118
+3,High School,31,Chicago,Manager,81159.26554562879
+29,High School,23,San Francisco,Manager,137696.6460804833
+6,Bachelor's,32,San Francisco,Manager,85545.82
+18,High School,34,Chicago,Software Engineer,73924.21
+19,High School,31,Austin,HR,64575.53192603302
+5,PhD,35,New York,Data Scientist,92758.61
+15,Bachelor's,39,Chicago,Manager,80914.52082087297
+25,Bachelor's,30,Chicago,HR,99510.35775110306
+2,Master's,49,Austin,Data Scientist,62942.01156359432
+10,Bachelor's,24,Chicago,Data Scientist,100814.15803519062
+24,Bachelor's,41,Chicago,Data Scientist,121223.2016345392
+18,Master's,27,New York,HR,95367.50832153141
+27,Bachelor's,48,New York,HR,113317.39497970878
+13,Bachelor's,23,New York,Software Engineer,82968.47677661259
+5,Bachelor's,50,San Francisco,HR,62342.86267019516
+23,Bachelor's,59,San Francisco,HR,93878.89928000071
+24,Master's,24,New York,HR,96669.72543702975
+1,Bachelor's,37,New York,Data Scientist,50123.740213768644
+22,Bachelor's,51,San Francisco,Manager,107391.36702985122
+1,Master's,23,Austin,Software Engineer,77148.92967475273
+18,PhD,38,Chicago,Manager,116178.6655712978
+15,High School,33,Chicago,Manager,108204.32474805591
+17,PhD,56,New York,HR,94568.27222823421
+11,Master's,22,Austin,Software Engineer,64633.332849428785
+21,High School,36,San Francisco,Manager,102244.59603773385
+26,Master's,47,New York,Manager,127654.92572998672
+25,Master's,58,Austin,Software Engineer,113392.82222464905
+22,Bachelor's,42,Austin,HR,100985.52230377718
+27,High School,52,Austin,Manager,111378.98524896715
+27,Bachelor's,46,San Francisco,Data Scientist,133069.18545641995
+17,High School,44,San Francisco,Manager,92692.14560574915
+13,Master's,45,Chicago,Data Scientist,100006.14488121694
+1,Master's,59,Chicago,HR,72984.66052536428
+2,PhD,49,Austin,Manager,74636.16
+9,High School,42,Austin,Software Engineer,75330.00883582562
+3,Bachelor's,39,San Francisco,Software Engineer,72540.37293620077
+1,PhD,57,Chicago,Manager,55385.02796373512
+21,PhD,56,Austin,HR,122449.89241831482
+16,PhD,30,Chicago,HR,110866.8083180942
+23,Bachelor's,59,Chicago,Software Engineer,107589.03432991334
+6,PhD,51,Austin,Manager,90190.35849202001
+28,Bachelor's,55,San Francisco,HR,114179.8380376867
+17,PhD,53,Austin,Software Engineer,99930.12486218818
+5,Bachelor's,24,Austin,Data Scientist,74659.49500224522
+5,Master's,24,Chicago,Manager,78823.73935843263
+6,Master's,49,Austin,Data Scientist,98083.26355750344
+3,Master's,36,San Francisco,Data Scientist,81754.62287204865
+21,Master's,44,Austin,HR,94404.50433307991
+23,Master's,32,San Francisco,HR,108727.20964679884
+5,PhD,53,San Francisco,HR,70831.62690270739
+21,PhD,57,Chicago,Manager,121757.30387844911
+5,PhD,54,New York,Data Scientist,75334.58863608156
+10,Bachelor's,45,New York,Manager,80569.46773658202
+10,Bachelor's,55,Chicago,HR,91355.84409689928
+19,Bachelor's,49,Austin,Data Scientist,90203.37
+17,Bachelor's,58,Chicago,Manager,107310.29581844887
+21,Master's,28,San Francisco,Manager,100861.80201904755
+14,Master's,25,New York,Software Engineer,100487.37210064485
+9,Master's,58,Chicago,Manager,82832.32395150981
+14,High School,22,Austin,HR,54450.301032511656
+1,PhD,22,Chicago,Manager,89113.75215084417
+19,Bachelor's,41,New York,Data Scientist,106408.46389800338
+13,Bachelor's,40,Chicago,Manager,100127.0695128347
+13,Master's,50,Chicago,Software Engineer,79034.04446209363
+4,Bachelor's,31,New York,Data Scientist,70788.57912747639
+1,Bachelor's,39,San Francisco,Data Scientist,71381.12633618593
+17,PhD,49,San Francisco,Software Engineer,104403.4207102431
+8,Master's,56,New York,HR,84320.42680603509
+2,PhD,52,Chicago,Data Scientist,81271.66102586006
+28,High School,48,New York,HR,99723.79294736346
+8,High School,32,San Francisco,Data Scientist,94068.87856390346
+7,High School,59,Austin,Data Scientist,67451.60626319205
+26,Master's,26,Chicago,HR,119302.74093468304
+26,Bachelor's,29,San Francisco,Data Scientist,123657.68799543199
+2,Master's,55,Chicago,HR,58506.081291587034
+22,Master's,33,New York,Software Engineer,126593.75011393805
+22,Bachelor's,59,Austin,HR,87281.57
+3,PhD,22,New York,Software Engineer,89134.40753811524
+27,High School,52,Austin,Data Scientist,110375.8198044984
+18,PhD,25,Chicago,HR,92296.41642735049
+12,High School,26,Chicago,Data Scientist,92816.63821895994
+1,Master's,51,New York,HR,66823.31524119366
+22,High School,45,Austin,Software Engineer,90296.46236071328
+12,Master's,24,Austin,Software Engineer,86375.96039044917
+5,PhD,32,Chicago,HR,75916.50435433433
+27,Master's,25,New York,Software Engineer,107680.24163406913
+25,PhD,47,Austin,Data Scientist,115991.33726770653
+17,Bachelor's,48,Chicago,Data Scientist,103539.83363252098
+16,Bachelor's,48,San Francisco,Manager,132802.63506141686
+15,Bachelor's,27,New York,Software Engineer,79793.27457065682
+23,Master's,36,San Francisco,Data Scientist,136268.86541160117
+15,Bachelor's,51,New York,HR,75096.48698870743
+5,High School,58,Chicago,Software Engineer,52114.19207983615
+21,PhD,58,Austin,Data Scientist,143954.07161883375
+14,PhD,58,Austin,Software Engineer,99744.26051841947
+2,High School,56,Austin,HR,60281.966894350444
+11,Master's,44,New York,Data Scientist,98675.20039848759
+19,Master's,27,Chicago,Manager,121142.33826372666
+7,PhD,25,San Francisco,Manager,105414.65631136863
+6,Bachelor's,39,Chicago,Software Engineer,72048.91177440334
+28,Master's,30,San Francisco,HR,108028.23000009502
+2,Master's,50,New York,Data Scientist,88818.14151433218
+6,High School,34,New York,HR,60678.92547857746
+18,High School,38,San Francisco,Data Scientist,104185.90493469416
+2,Bachelor's,53,San Francisco,Software Engineer,44584.01662005171
+18,Master's,43,San Francisco,Data Scientist,118156.08687762519
+15,Master's,25,Chicago,HR,54187.660442736764
+27,High School,26,San Francisco,HR,102778.3384721824
+19,Master's,58,New York,Software Engineer,92639.22608718729
+2,PhD,34,New York,HR,76714.16
+20,High School,55,Austin,Data Scientist,86074.42892169791
+25,Bachelor's,43,San Francisco,Software Engineer,107594.38349129882
+6,High School,44,Chicago,Data Scientist,81148.23087733531
+1,Master's,24,Chicago,HR,41064.74805303894
+24,Bachelor's,55,Chicago,Software Engineer,76863.16815410962
+15,High School,53,Austin,Data Scientist,87977.66109469788
+28,PhD,42,New York,HR,100106.34261266302
+23,PhD,42,Chicago,HR,99170.12916202517
+10,High School,32,New York,Manager,74897.11161609979
+19,PhD,25,Austin,HR,81738.74067237269
+17,PhD,22,San Francisco,Data Scientist,103296.09969126813
+5,PhD,49,San Francisco,Software Engineer,68154.87382433839
+29,Bachelor's,45,San Francisco,Manager,139088.4806978081
+4,PhD,56,Chicago,HR,63785.905624379506
+10,PhD,34,San Francisco,HR,80158.19275210702
+24,PhD,55,Chicago,HR,125855.44126194487
+17,Bachelor's,32,Austin,Data Scientist,107016.68272605217
+10,High School,57,Austin,Manager,87669.78
+17,Master's,38,Chicago,Data Scientist,92514.52544522741
+28,PhD,56,New York,Manager,132904.78187050633
+20,High School,39,San Francisco,Software Engineer,95092.71295706682
+24,PhD,43,San Francisco,Data Scientist,124964.97281093568
+5,Bachelor's,45,San Francisco,Data Scientist,60632.32199468673
+2,High School,40,Chicago,Software Engineer,64988.021348580514
+6,Bachelor's,58,Austin,Manager,74108.36889703778
+21,PhD,42,San Francisco,HR,127553.16526650282
+2,PhD,29,Austin,Software Engineer,82289.48121088138
+13,Bachelor's,49,San Francisco,HR,100897.99038577214
+11,Master's,26,San Francisco,HR,89576.24191532163
+11,Bachelor's,38,Chicago,Software Engineer,74039.88728823382
+16,PhD,58,New York,Manager,127120.02012829002
+11,Bachelor's,57,Chicago,HR,75593.89957271247
+19,Master's,40,San Francisco,Software Engineer,120933.14747652996
+15,Bachelor's,48,San Francisco,Data Scientist,108301.3208353461
+25,Master's,55,New York,Data Scientist,117738.15581222753
+23,Master's,32,Austin,Data Scientist,116142.68776689417
+23,Bachelor's,33,Austin,Software Engineer,89698.98958440521
+16,Bachelor's,42,San Francisco,Data Scientist,91373.15
+11,High School,32,Austin,HR,52326.04444263381
+22,PhD,49,San Francisco,Data Scientist,136977.40837263106
+16,Master's,26,New York,Data Scientist,86053.14407637723
+8,High School,38,New York,HR,53919.12827108646
+4,Bachelor's,41,San Francisco,Data Scientist,79205.77170147092
+8,PhD,33,New York,HR,81099.24
+4,High School,27,Chicago,Data Scientist,58843.440063034475
+24,Master's,38,Chicago,HR,96830.28861274698
+25,High School,40,New York,Data Scientist,83876.53474650561
+3,Master's,47,San Francisco,HR,61050.58782376186
+3,Bachelor's,53,San Francisco,Software Engineer,91226.50596317019
+27,PhD,27,New York,HR,105123.41730292691
+29,PhD,57,Austin,Data Scientist,113072.6529282215
+18,PhD,59,Chicago,Data Scientist,101179.36930147013
+29,Bachelor's,32,Austin,Manager,120383.71265531608
+26,Master's,54,San Francisco,HR,128134.71254283082
+19,Bachelor's,45,San Francisco,Software Engineer,102253.59612878988
+19,PhD,44,Austin,HR,87969.29301300089
+21,Bachelor's,36,New York,HR,72280.97351270827
+5,Bachelor's,48,Austin,Software Engineer,69627.58453661564
+18,Bachelor's,32,Austin,HR,92354.97625289796
+28,Master's,38,Chicago,Software Engineer,124535.23536418786
+10,High School,35,Chicago,Software Engineer,54176.05436242138
+29,High School,48,Austin,HR,120797.7791396594
+22,Bachelor's,39,Austin,HR,82555.40459075046
+21,High School,49,San Francisco,Data Scientist,108737.13340940824
+6,High School,25,Chicago,Data Scientist,74498.74
+1,Bachelor's,28,Chicago,Manager,63876.23510696986
+5,Bachelor's,56,San Francisco,Manager,62490.444937208704
+9,PhD,30,New York,HR,89514.99030825919
+12,High School,29,Chicago,Software Engineer,73671.83322030719
+26,Master's,38,Chicago,Manager,118951.2069503634
+14,Bachelor's,38,New York,HR,90470.73283012565
+2,PhD,54,Chicago,Manager,90423.79396102933
+17,Master's,53,Chicago,Software Engineer,83081.47109139196
+14,High School,29,New York,HR,71485.52324671904
+26,PhD,40,New York,Software Engineer,95271.00
+13,Bachelor's,59,Austin,HR,72796.36890880245
+27,Master's,24,San Francisco,Manager,126290.12878177935
+9,Bachelor's,26,San Francisco,Data Scientist,97312.00452236153
+26,High School,34,New York,Manager,102898.55392608223
+25,Master's,52,New York,Manager,115267.33734265731
+15,High School,37,Chicago,Data Scientist,56247.656446681605
+25,High School,53,Austin,Data Scientist,117608.25536751078
+22,PhD,43,Austin,HR,96109.94157279772
+15,Bachelor's,50,New York,HR,95736.46815179655
+24,Master's,43,Chicago,Software Engineer,96441.58
+11,High School,24,Chicago,Software Engineer,80550.08
+16,High School,31,San Francisco,Manager,123962.85521035883
+29,Master's,42,San Francisco,Data Scientist,135213.9610247768
+17,High School,37,Chicago,Software Engineer,90648.21109577804
+26,PhD,33,San Francisco,Manager,132682.28048969823
+4,PhD,23,New York,Data Scientist,80804.43694888405
+1,PhD,45,Chicago,HR,53639.01748495653
+8,PhD,56,San Francisco,Manager,115480.59546583804
+17,High School,51,Austin,HR,75243.92282179013
+3,Master's,51,Chicago,Software Engineer,59878.641801624406
+29,Master's,56,Chicago,Software Engineer,111671.91863905232
+20,Master's,40,Austin,Data Scientist,105301.8149099032
+15,Master's,29,New York,Manager,112774.11390385573
+15,Bachelor's,47,Austin,HR,94930.12312306197
+24,Master's,28,Chicago,Data Scientist,119076.37277069363
+22,Bachelor's,51,New York,Software Engineer,83621.27512683588
+14,Bachelor's,28,San Francisco,Software Engineer,84572.93461888902
+26,PhD,24,San Francisco,Manager,142582.37363199564
+28,Bachelor's,22,San Francisco,HR,102318.23726645441
+23,High School,57,Chicago,Manager,95286.86
+14,Bachelor's,46,Austin,HR,84370.57579004086
+24,PhD,58,New York,HR,114762.40573191877
+2,Bachelor's,22,San Francisco,Manager,66317.92701415208
+13,High School,36,New York,Data Scientist,91058.52492079302
+26,High School,58,Chicago,Manager,123938.13717745623
+14,High School,34,San Francisco,Manager,94227.96119288309
+27,PhD,29,Chicago,Software Engineer,118204.27959578029
+24,PhD,26,Austin,Software Engineer,120094.10212344825
+19,Master's,30,Chicago,Manager,100499.9699632858
+7,PhD,22,Chicago,Manager,103989.82734544775
+3,High School,57,Austin,Software Engineer,84216.66438371026
+15,High School,56,New York,HR,64539.968474897505
+23,PhD,23,Austin,Manager,107191.23956779866
+14,Bachelor's,44,Austin,Data Scientist,89592.58
+11,PhD,30,Chicago,Data Scientist,82641.10767332168
+15,PhD,55,New York,Data Scientist,86390.92914783038
+28,High School,35,San Francisco,Manager,112152.63342497946
+13,Master's,25,Austin,HR,66638.00
+18,High School,51,New York,HR,84548.69227284483
+26,Master's,52,Austin,Software Engineer,109197.85048855447
+6,High School,59,Austin,Manager,83371.65
+3,PhD,32,Austin,HR,73141.86492817599
+19,High School,56,Austin,Manager,118999.61782337018
+15,High School,29,Chicago,Software Engineer,80754.08
+25,High School,24,New York,Software Engineer,114267.88143218351
+23,PhD,35,New York,Software Engineer,121881.96904519967
+5,PhD,34,New York,Data Scientist,83511.46
+28,PhD,53,Austin,Manager,128224.10249602041
+10,PhD,55,Chicago,Software Engineer,62335.51805106949
+7,Master's,40,Austin,Manager,85126.26712099285
+25,Master's,59,Austin,Data Scientist,126017.56922283015
+17,Bachelor's,37,New York,Data Scientist,79949.99478104935
+7,PhD,23,Austin,Software Engineer,73958.99437236002
+22,Master's,38,San Francisco,Software Engineer,128543.1087731565
+26,High School,55,Austin,HR,92634.49496336804
+12,PhD,37,San Francisco,Manager,116316.50337192335
+25,Bachelor's,59,Austin,Software Engineer,104637.56353666626
+17,Bachelor's,23,Chicago,HR,78569.55438865942
+13,Bachelor's,23,Chicago,Manager,96868.46298144197
+20,High School,47,New York,Software Engineer,83870.43127897981
+25,Master's,34,Austin,HR,94457.53806125908
+4,High School,52,San Francisco,HR,53383.81978428457
+10,PhD,55,San Francisco,Manager,97701.69
+3,Bachelor's,24,Austin,HR,55613.69852955829
+9,High School,29,San Francisco,Manager,86910.34071914162
+13,High School,44,Chicago,Manager,92227.82918472051
+18,Master's,35,San Francisco,Manager,106034.03304658509
+15,Master's,48,New York,Data Scientist,86270.64402629757
+4,Bachelor's,50,Chicago,HR,56667.97898943808
+15,High School,22,Chicago,Manager,106633.31934592203
+22,High School,38,Chicago,Software Engineer,105405.4311765003
+2,Master's,51,Austin,Data Scientist,56312.07752856944
+15,High School,34,Austin,Data Scientist,67519.73322512546
+8,High School,42,Chicago,HR,52667.62979050971
+8,High School,40,Austin,Manager,75289.41
+17,Master's,40,San Francisco,HR,74473.17067706614
+12,Bachelor's,46,Austin,Data Scientist,78193.20553565945
+19,PhD,43,Austin,Manager,104382.41638915637
+10,Bachelor's,52,Chicago,Software Engineer,81499.83442300154
+9,PhD,38,New York,Manager,94681.13352241952
+5,High School,44,New York,Data Scientist,67923.73159345474
+6,Bachelor's,53,New York,Software Engineer,78502.04696271277
+20,PhD,31,San Francisco,Manager,132996.49602372185
+26,Master's,31,Austin,Software Engineer,99014.29284087606
+2,Master's,57,New York,Software Engineer,70318.47
+27,Bachelor's,29,Chicago,Data Scientist,128677.51758839327
+24,Bachelor's,41,New York,Software Engineer,88895.69
+27,High School,53,New York,HR,100630.70751803425
+13,Bachelor's,35,Austin,Data Scientist,89023.98738717273
+6,High School,49,Austin,HR,73217.12
+5,High School,45,Austin,Software Engineer,56941.79984022725
+25,Master's,36,San Francisco,HR,111379.36644392437
+1,Master's,43,San Francisco,Manager,84185.08883342167
+21,PhD,51,New York,Software Engineer,125360.31
+22,Master's,25,Austin,Manager,109839.90617843742
+21,Master's,34,New York,HR,104762.40435135057
+6,Bachelor's,44,Chicago,Manager,70045.88758976046
+6,Master's,29,Chicago,Software Engineer,69901.85318254921
+23,PhD,39,Austin,Manager,116958.3971742099
+16,Bachelor's,33,Austin,HR,73572.67796562151
+4,PhD,52,Chicago,HR,71734.56
+11,Master's,35,Austin,HR,86904.98102007552
+24,PhD,55,San Francisco,Software Engineer,141352.48549199806
+23,Bachelor's,39,San Francisco,HR,85907.65322095947
+9,High School,55,Austin,Software Engineer,61009.70315634289
+23,PhD,32,Chicago,Manager,114700.97135367783
+3,PhD,33,New York,HR,56113.49547291671
+19,Bachelor's,36,Austin,Manager,106847.15448774099
+8,Bachelor's,52,Austin,Data Scientist,66963.66622684566
+5,PhD,50,New York,Manager,93005.89090135496
+4,Master's,47,Austin,Data Scientist,70724.65295603819
+24,PhD,39,New York,Manager,129498.67436057278
+6,Bachelor's,53,Chicago,Software Engineer,72157.40032682533
+2,High School,43,San Francisco,Manager,67148.84425592943
+20,High School,59,Chicago,Software Engineer,69605.94578456669
+28,Master's,38,San Francisco,Software Engineer,134660.48143338863
+11,PhD,44,New York,HR,75957.87576464014
+4,High School,45,San Francisco,Software Engineer,57659.437001429455
+15,PhD,29,Chicago,Data Scientist,103550.8139456961
+6,Bachelor's,27,San Francisco,HR,82968.45335815368
+22,High School,26,New York,HR,115952.94900475084
+17,Master's,50,San Francisco,Manager,123239.1554357717
+24,Bachelor's,49,Austin,Software Engineer,110310.11087783528
+6,Master's,32,Chicago,Software Engineer,60174.74283530016
+19,Bachelor's,22,Austin,Data Scientist,98999.82355742912
+25,High School,40,New York,Manager,105380.05427117262
+2,Master's,30,San Francisco,Manager,81920.27135061516
+15,Master's,48,Austin,HR,82602.90251151299
+11,Bachelor's,55,Austin,HR,78167.41375415194
+8,Master's,25,San Francisco,HR,72540.10667223805
+26,Bachelor's,57,San Francisco,Data Scientist,129434.23701851851
+19,Bachelor's,39,Chicago,Data Scientist,86594.85110388976
+13,Bachelor's,36,Austin,HR,78902.36691202987
+12,Bachelor's,34,Austin,Manager,99723.77684205752
+5,High School,40,New York,Data Scientist,71472.65057002167
+6,Bachelor's,27,Chicago,Manager,70605.12211940762
+26,PhD,33,New York,Manager,132044.75152854357
+22,Master's,58,Austin,Software Engineer,95732.22349474343
+4,PhD,38,New York,HR,65469.01104759211
+19,High School,44,Austin,Software Engineer,100918.75757740867
+20,PhD,47,Austin,HR,86411.10752793963
+1,Master's,50,New York,HR,87980.01360477277
+20,PhD,54,New York,Manager,113585.25950456757
+17,High School,48,San Francisco,HR,81025.80849158218
+12,Bachelor's,46,San Francisco,Manager,103019.64444184313
+15,PhD,31,San Francisco,Manager,108385.41548339672
+1,High School,44,Austin,HR,47520.04912336443
+26,High School,42,New York,Manager,110516.27658024488
+14,Master's,42,Chicago,Manager,102997.66216829373
+6,Master's,34,Austin,Manager,46612.59868641177
+5,PhD,58,Chicago,Data Scientist,78813.41879950225
+11,Bachelor's,54,New York,Manager,110160.26559696996
+4,High School,45,Austin,Data Scientist,40227.67821169898
+13,PhD,32,Chicago,Data Scientist,93146.96808861165
+11,High School,38,Chicago,Manager,67763.47838237553
+3,High School,25,San Francisco,Manager,62047.465171663534
+1,Bachelor's,46,San Francisco,Data Scientist,55727.60377648552
+6,Bachelor's,51,San Francisco,Data Scientist,73951.19036094048
+18,PhD,30,Austin,Manager,111739.01790790392
+24,Bachelor's,42,New York,Manager,136510.87
+10,Bachelor's,41,New York,HR,53002.484244050065
+5,PhD,40,San Francisco,Data Scientist,88000.56793560524
+23,Bachelor's,40,San Francisco,Data Scientist,121684.13371768912
+10,Master's,33,San Francisco,HR,105670.72845992015
+12,High School,58,Chicago,Data Scientist,84138.59987611184
+2,High School,38,San Francisco,Software Engineer,65366.56460367588
+13,High School,58,Chicago,Data Scientist,87531.93654752648
+8,High School,49,New York,HR,48632.20502658833
+2,PhD,56,Austin,Software Engineer,57514.71885332522
+20,High School,39,Austin,Manager,103832.21839755661
+1,High School,35,Austin,HR,23521.509071030356
+5,High School,56,Austin,HR,50131.07185709847
+9,High School,28,Chicago,Manager,66659.27153959186
+17,Master's,34,Chicago,HR,89199.63
+9,High School,39,San Francisco,Data Scientist,75263.98
+11,Master's,58,Chicago,Manager,101678.01222564347
+15,PhD,34,San Francisco,HR,89829.97560713904
+24,Bachelor's,57,San Francisco,Manager,113036.27945737871
+6,High School,52,Austin,Manager,63628.25000244618
+23,Bachelor's,23,Chicago,Manager,107111.61162516895
+3,Bachelor's,37,Chicago,Software Engineer,51996.46953091983
+17,PhD,30,San Francisco,HR,102890.22259645237
+5,Bachelor's,30,San Francisco,Software Engineer,81768.89626294165
+28,Master's,59,New York,HR,127431.55399843033
+12,Bachelor's,32,New York,Data Scientist,104715.81143676971
+18,Bachelor's,43,San Francisco,Data Scientist,109918.18149500072
+14,Bachelor's,54,New York,Data Scientist,89438.93179672882
+21,High School,57,New York,HR,99620.16850388506
+24,High School,44,San Francisco,Manager,114623.58800126819
+11,Master's,55,San Francisco,Manager,94443.82018810406
+9,Master's,30,Chicago,Software Engineer,73662.78837606897
+2,High School,45,San Francisco,Software Engineer,83873.71775596867
+12,Master's,29,San Francisco,Data Scientist,104571.72219845436
+3,High School,28,Austin,Software Engineer,56000.148983719635
+3,PhD,57,Chicago,HR,94144.06549120636
+1,Bachelor's,39,Chicago,HR,66815.68893723875
+8,Bachelor's,24,Chicago,Software Engineer,59274.07551787472
+22,Master's,49,Austin,Software Engineer,111406.31873241151
+28,High School,27,San Francisco,Software Engineer,124835.92785880298
+29,High School,42,Chicago,Software Engineer,118306.24902271808
+8,Master's,49,Chicago,Data Scientist,70780.57758372091
+11,High School,22,New York,Data Scientist,95225.06560744627
+9,PhD,57,Chicago,Software Engineer,81548.18124118894
+5,Bachelor's,42,San Francisco,HR,59409.58807257171
+14,Master's,56,San Francisco,Data Scientist,96477.99796054416
+28,Master's,34,New York,HR,131421.47928243707
+3,High School,31,Chicago,Manager,56601.179000738106
+21,Master's,31,Chicago,HR,96927.00103700551
+5,PhD,34,Chicago,Software Engineer,84967.48
+5,High School,58,Austin,Manager,67328.47
+19,High School,59,Chicago,Data Scientist,102345.4705123913
+27,High School,45,San Francisco,Data Scientist,105617.27702589358
+14,High School,23,San Francisco,Manager,95373.94264983649
+26,PhD,43,Austin,HR,106488.33235825377
+4,High School,38,Austin,Data Scientist,51741.67389377083
+25,Master's,57,Chicago,Software Engineer,110428.65960528974
+13,PhD,35,New York,Manager,119087.41346726633
+10,Bachelor's,31,Austin,Software Engineer,66199.94416544023
+25,Bachelor's,56,Austin,Manager,141455.5770843309
+18,Master's,46,Chicago,Data Scientist,78856.22755125063
+8,Master's,24,Chicago,HR,39438.86819626952
+8,PhD,59,Austin,Manager,105785.11711122666
+7,Bachelor's,38,New York,Manager,95785.67695538739
+8,Bachelor's,33,Austin,Software Engineer,62576.08015009923
+14,Bachelor's,45,Chicago,Data Scientist,100183.29484692712
+19,Bachelor's,50,Chicago,Software Engineer,112260.59765077305
+29,Bachelor's,46,Austin,Data Scientist,114480.62851524325
+6,High School,57,New York,Software Engineer,65066.10
+1,Master's,47,Austin,Manager,74732.74654202152
+23,High School,59,Austin,Software Engineer,80234.40
+15,Bachelor's,22,Chicago,HR,77712.26975211452
+1,PhD,41,New York,Data Scientist,72919.34714023105
+25,PhD,49,San Francisco,Data Scientist,132184.68042119432
+17,Bachelor's,37,New York,Manager,81335.06815234172
+1,Bachelor's,38,Austin,Data Scientist,74258.20607569744
+15,PhD,49,Austin,HR,88245.04807519788
+23,High School,33,Austin,Software Engineer,87051.65046525751
+2,High School,48,New York,Manager,80466.80592430894
+14,Bachelor's,51,Chicago,HR,80540.02346686527
+21,High School,55,Austin,Data Scientist,89851.60583110969
+8,PhD,58,Austin,Data Scientist,94522.97648678582
+8,High School,27,New York,HR,87656.01624243852
+19,Bachelor's,28,San Francisco,Software Engineer,106610.48146766133
+7,PhD,53,San Francisco,Software Engineer,92415.26381320905
+19,High School,53,Chicago,Manager,92767.84388077563
+6,Master's,46,Chicago,Data Scientist,75264.69002543896
+6,PhD,54,Austin,HR,65056.154742298095
+3,PhD,28,New York,Software Engineer,82168.61177797138
+7,Master's,33,Austin,Manager,97073.03813563778
+19,Master's,37,Chicago,Data Scientist,120165.06193419675
+8,PhD,37,New York,Data Scientist,68230.87
+10,Master's,57,New York,Manager,93081.78284495106
+20,Bachelor's,34,Chicago,Manager,118654.3489258854
+15,Bachelor's,28,San Francisco,Software Engineer,81962.35
+15,Bachelor's,57,San Francisco,HR,104149.17805925144
+29,PhD,30,New York,Data Scientist,140701.3192568075
+1,Master's,53,Austin,HR,40641.54837676812
+20,Master's,32,San Francisco,Data Scientist,94895.72
+7,High School,29,Austin,Data Scientist,71728.21327217414
+27,High School,54,San Francisco,HR,123817.98946759896
+4,Master's,44,San Francisco,Manager,101094.52239791465
+29,Master's,46,Austin,Software Engineer,125512.72873379294
+6,Master's,29,Chicago,Data Scientist,66621.00
+25,PhD,43,San Francisco,Manager,141221.30591174832
+1,Master's,25,San Francisco,Data Scientist,75182.71848605538
+29,High School,24,Austin,Software Engineer,98378.14041731581
+5,PhD,50,Chicago,Data Scientist,85090.73500343144
+27,Master's,50,San Francisco,Software Engineer,134240.76720392768
+23,High School,55,San Francisco,Software Engineer,96465.70556548356
+1,PhD,55,Chicago,Data Scientist,76433.56433712813
+4,Master's,49,San Francisco,Data Scientist,89539.35301593873
+22,Master's,34,Chicago,Software Engineer,98834.53712395534
+2,Master's,36,Chicago,Manager,77223.17140961243
+10,PhD,44,Austin,HR,59918.03098654571
+5,High School,47,New York,Software Engineer,86623.32561235916
+27,High School,25,Chicago,Data Scientist,108391.8584874684
+10,Bachelor's,47,Austin,Data Scientist,101177.97626670027
+1,Master's,30,New York,Manager,86353.53775123197
+22,Bachelor's,26,San Francisco,HR,89610.28
+6,Bachelor's,53,New York,Software Engineer,61716.550290141975
+13,High School,41,Chicago,Software Engineer,57509.28805632964
+15,PhD,32,Chicago,HR,98966.42
+4,PhD,36,Chicago,Software Engineer,71235.22541953402
+13,High School,53,Chicago,HR,67329.55024568894
+24,PhD,49,Chicago,Data Scientist,135339.77055731905
+20,Bachelor's,43,Austin,HR,88387.47476020541
+24,Master's,38,Chicago,Software Engineer,118179.54965130443
+15,High School,47,Austin,HR,79671.63729952922
+29,Master's,28,San Francisco,Manager,130023.01631142205
+8,PhD,47,Chicago,Data Scientist,77664.20540790919
+5,Master's,46,Chicago,Data Scientist,55997.53305845886
+29,PhD,31,New York,HR,128102.11004588705
+15,PhD,40,San Francisco,Software Engineer,101576.5878363418
+4,Bachelor's,32,Chicago,Manager,61464.130142666065
+12,PhD,34,Chicago,Data Scientist,106828.19
+13,Bachelor's,29,San Francisco,Data Scientist,87750.76769665214
+2,Bachelor's,25,Austin,Software Engineer,33757.11592165321
+27,Bachelor's,52,Chicago,Software Engineer,130484.19430851797
+19,High School,49,New York,Manager,78471.33700889084
+19,High School,32,Chicago,HR,98629.55369221081
+4,PhD,22,New York,Software Engineer,82267.18173538642
+4,Bachelor's,59,New York,HR,60453.02836712315
+26,High School,45,Chicago,Manager,111673.3277973485
+11,Bachelor's,52,Chicago,HR,78233.72422766751
+27,Master's,47,New York,Data Scientist,125645.6591063478
+5,Master's,26,San Francisco,HR,64404.23545403962
+20,Master's,41,San Francisco,Manager,133896.71530618332
+11,PhD,32,Chicago,Manager,112919.4238211731
+10,Bachelor's,54,Austin,Manager,86438.75149621672
+8,Master's,59,San Francisco,HR,77246.84149581756
+6,High School,48,Chicago,Data Scientist,78407.25536245231
+6,Master's,55,San Francisco,Software Engineer,95032.14
+8,Master's,36,Austin,Data Scientist,65387.96045618774
+23,Master's,53,Chicago,HR,97303.14465129482
+15,PhD,42,Austin,HR,93216.94783695796
+26,High School,26,Chicago,Software Engineer,95500.05355544401
+14,Bachelor's,27,Austin,HR,87798.76484971367
+11,High School,59,San Francisco,Manager,97490.02470240399
+12,Bachelor's,43,San Francisco,Manager,87308.62
+26,PhD,39,Austin,Manager,143426.54304838504
+13,PhD,35,Austin,Manager,83625.34768369542
+8,PhD,31,Austin,Manager,87047.19491984663
+18,PhD,34,Chicago,HR,98415.66431981699
+25,Bachelor's,52,San Francisco,Software Engineer,132078.51557454802
+1,Master's,51,Chicago,Software Engineer,66502.68421398499
+15,Bachelor's,24,San Francisco,Manager,124077.74186686699
+8,High School,51,New York,HR,66403.95499763348
+28,PhD,27,Chicago,Data Scientist,118934.98614958387
+11,PhD,50,San Francisco,Data Scientist,100039.18021932631
+12,High School,29,San Francisco,HR,67308.13509470402
+12,Bachelor's,54,Chicago,Manager,102407.10554813026
+4,Master's,38,Chicago,Software Engineer,57795.27
+16,Master's,32,San Francisco,HR,103591.89797542685
+4,High School,34,Chicago,Data Scientist,70192.10755922699
+5,Master's,32,Austin,Data Scientist,57378.66489601124
+24,Bachelor's,52,Chicago,Data Scientist,120164.88286305971
+5,Bachelor's,49,Chicago,Manager,65399.23344188847
+8,High School,27,Chicago,Data Scientist,60949.598684328266
+10,Bachelor's,37,San Francisco,HR,78193.17379643864
+17,PhD,25,Austin,HR,75265.15814253024
+28,High School,56,New York,Data Scientist,117262.34376634448
+26,Bachelor's,47,New York,HR,74167.01452213703
+9,High School,33,Austin,Data Scientist,54180.669715829616
+22,Master's,32,Austin,Data Scientist,119398.72281424807
+19,Bachelor's,58,Austin,Software Engineer,74065.78668977611
+29,PhD,46,San Francisco,Manager,135948.64691949787
+14,Bachelor's,39,New York,Manager,106965.44918148975
+8,High School,40,Austin,Software Engineer,57825.91876740217
+9,High School,44,San Francisco,Software Engineer,85257.42043606621
+22,Bachelor's,59,New York,Manager,132927.28049299857
+11,PhD,39,Chicago,Data Scientist,110656.8540653696
+23,PhD,47,San Francisco,Data Scientist,116938.72183611059
+1,PhD,27,New York,Manager,71394.60
+14,High School,25,San Francisco,Data Scientist,115169.24402674052
+5,Bachelor's,50,New York,Software Engineer,69438.07868646285
+21,Master's,55,New York,Data Scientist,133946.57028290012
+26,High School,38,Chicago,Data Scientist,123313.62588948154
+14,PhD,37,San Francisco,HR,100699.93071850293
+4,Bachelor's,23,Austin,HR,61193.00014906922
+22,PhD,55,Chicago,HR,104921.09817943288
+23,Master's,29,Chicago,Data Scientist,106288.07138900022
+25,PhD,34,New York,Manager,119440.89512623135
+1,PhD,29,Austin,Software Engineer,66489.25723596751
+22,Master's,51,San Francisco,Data Scientist,101483.44780657964
+23,Bachelor's,53,Austin,Manager,103172.88204331318
+19,High School,57,Austin,Data Scientist,109756.0327937483
+8,Bachelor's,51,Austin,Software Engineer,55834.45038118005
+15,Master's,22,Austin,Data Scientist,103016.08452634592
+21,PhD,38,Austin,Software Engineer,84521.72495603692
+15,Bachelor's,41,New York,Data Scientist,97264.92
+9,High School,45,New York,Software Engineer,68300.55
+21,Master's,43,Chicago,Data Scientist,124012.99548933329
+9,Bachelor's,50,New York,Software Engineer,75685.13
+10,High School,43,Chicago,HR,44091.02714982178
+20,Master's,30,Chicago,Data Scientist,106867.5458576716
+25,High School,58,San Francisco,Data Scientist,116526.87354379847
+21,Master's,31,Austin,Manager,105313.66985173627
+26,PhD,57,New York,Manager,139722.7857563903
+9,Bachelor's,58,San Francisco,Software Engineer,73090.97145482858
+3,High School,49,New York,Data Scientist,44829.84962486543
+20,Master's,49,Chicago,Software Engineer,91877.98827903143
+25,High School,42,New York,HR,90755.25758615021
+26,High School,45,Austin,Manager,104985.74207416722
+11,Bachelor's,23,Chicago,Software Engineer,95527.55898931046
+6,PhD,29,Chicago,Software Engineer,95495.71
+2,High School,48,San Francisco,Manager,77359.62832384497
+7,Master's,43,Austin,Data Scientist,80600.12821643133
+18,Master's,58,Chicago,Software Engineer,103687.13869393754
+27,PhD,48,Austin,Manager,124966.93396048388
+2,Master's,50,New York,Data Scientist,68380.11
+27,PhD,24,Austin,HR,113705.95500283285
+17,Master's,34,Chicago,Manager,81256.62090218048
+11,Bachelor's,31,San Francisco,Software Engineer,76901.25173480429
+27,High School,57,Chicago,HR,102313.85781325412
+12,Bachelor's,30,Austin,Data Scientist,70450.66073175959
+27,High School,48,Austin,Data Scientist,101866.46913996735
+19,High School,55,Chicago,Manager,99026.83783194539
+22,High School,22,Austin,Manager,110393.08670074871
+24,Bachelor's,53,New York,Manager,127952.74558276829
+25,High School,46,Chicago,Data Scientist,104719.24273980898
+7,Bachelor's,50,San Francisco,HR,82164.36875190014
+20,PhD,28,Chicago,Data Scientist,111085.88627415322
