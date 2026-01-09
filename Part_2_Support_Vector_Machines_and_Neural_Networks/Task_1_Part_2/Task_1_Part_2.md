@@ -15,6 +15,14 @@ Dataset: Customer Segmentation Data
 
 Tool to be used: Python
 
+## Learning Outcomes:
+- Explain the concepts and mathematics behind SVMs and their applications
+- Describe the structure and function of neural networks, including their learning processes
+Identify and evaluate the fundamental concepts of deep learning, including popular architectures and their applications
+
+
 ## Questions:
 1. How do support vectors impact the decision boundary in SVM? Which feature has the strongest influence on customer segmentation?
 2. If the margin width is large, what does it imply about classification confidence? If the data requires a non-linear kernel, what might that suggest about the dataset? If support vectors change significantly when retrained, what does that imply about model stability?
+
+
